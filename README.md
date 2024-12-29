@@ -40,6 +40,8 @@ Avoid the use of npm init -y if you are using hosting panel.
 ### change the channel_id in the index.js with your channel_id
 
 <img src="githubassests/IMG_20241229_112413.jpg" />
+<img src="githubassests/Screenshot_2024-12-29-11-56-41-333_com.discord.jpg" />
+
 
 ### First run registration command for the bot to register slash command to bot.
     node register-command.js
