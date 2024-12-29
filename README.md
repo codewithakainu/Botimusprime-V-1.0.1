@@ -1,4 +1,4 @@
-<img src="githubassets/IMG_20241227_194716.jpg">
+<img src="githubassests/IMG_20241227_194716.jpg">
 
 # Botimusprime-V-1.0.1
 
