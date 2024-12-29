@@ -112,7 +112,7 @@ client.on('guildMemberAdd', async (member) => {
 
     const embed = new EmbedBuilder()
       .setColor('#0099ff')
-      .setTitle(`Welcome ${member.user.username}!`)
+      .setTitle(`Welcome <@${member.id}>!`)
       .setDescription(welcomeMessage)
       .setFooter({ text: 'Made by codewithakainu | Powered by AI' });
 
