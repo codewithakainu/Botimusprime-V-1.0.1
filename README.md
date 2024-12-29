@@ -50,11 +50,6 @@ Avoid the use of npm init -y if you are using hosting panel.
     node index.js
 
 ### start up command for hosting panel
-### First run registration command in start [ use only first time  ]
-    register-command.js
-
-### Then 
-    index.js
     
 ### New updates will be coming soon by codewithakainu 
 
