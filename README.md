@@ -61,4 +61,4 @@ Avoid the use of npm init -y if you are using hosting panel.
 
 <img src="githubassests/IMG_20241229_112439.jpg" />
 
-# comment about my code in the discord server it will makes me happy 😁.
+# Give feedback about my code in the discord server it will makes me happy 😁.
